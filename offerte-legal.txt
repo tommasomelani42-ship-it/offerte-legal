@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy - Offerte Casa e Famiglia</title>
+</head>
+<body>
+<h1>Informativa sulla Privacy</h1>
+<p>Offerte Casa & Famiglia non raccoglie dati personali degli utenti.</p>
+<p>I nostri account social vengono utilizzati esclusivamente per condividere contenuti pubblici relativi a offerte e sconti su prodotti per la casa.</p>
+<p>Per domande, contattaci su Telegram: <a href="https://t.me/OfferteCasaFamiglia">t.me/OfferteCasaFamiglia</a></p>
+</body>
+</html>
